@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![deric2007wu-alt](https://img.shields.io/badge/deric2007wu-alt-github-blue?logo=github)](https://github.com/deric2007wu-alt)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a student in Macao Polytechnic University(MPU).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: p2520867@mpu.edu.mo
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Xuancheng NO.2 High School, 2022—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence Seismology, Astronomy.
 
