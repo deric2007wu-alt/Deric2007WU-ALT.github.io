@@ -9,7 +9,7 @@ He is currently a student in Macao Polytechnic University(MPU).
 Email: p2520867@mpu.edu.mo
 
 #### Education
-M.E., Xuancheng NO.2 High School, 2022—2025.
+HS, Xuancheng NO.2 High School, 2022—2025.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Astronomy.
