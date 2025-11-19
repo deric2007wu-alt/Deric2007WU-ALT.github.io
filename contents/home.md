@@ -1,6 +1,6 @@
 
 
-[![deric2007wu-alt](https://img.shields.io/badge/deric2007wu-alt-github-blue?logo=github)](https://github.com/deric2007wu-alt)
+[![deric](https://img.shields.io/badge/deric2007wu-alt-github-blue?logo=github)](https://github.com/deric2007wu-alt)
 
 He is currently a student in Macao Polytechnic University(MPU).
 
